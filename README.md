@@ -7,3 +7,7 @@
  The dataset and the pre-processing of the dataset files are present in the Religious Texts.ipynb file. 
  
  
+ 
+ Link to Original Dataset 
+ http://archive.ics.uci.edu/ml/datasets/A+study+of++Asian+Religious+and+Biblical+Texts
+ 
